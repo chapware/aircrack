@@ -1,0 +1,12 @@
+C:\bryan\aircrack\src\GUI\Aircrack-ng\bin\Release\Aircrack-ng GUI.exe
+C:\bryan\aircrack\src\GUI\Aircrack-ng\bin\Release\Aircrack-ng GUI.pdb
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\ResolveAssemblyReference.cache
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\Aircrack_ng.Faircrack.resources
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\Aircrack_ng.Properties.Resources.resources
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\Aircrack-ng.csproj.GenerateResource.Cache
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\Aircrack-ng GUI.exe
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\Aircrack-ng GUI.pdb
+C:\bryan\aircrack\src\GUI\Aircrack-ng\bin\Release\Aircrack-ng GUI.exe.manifest
+C:\bryan\aircrack\src\GUI\Aircrack-ng\bin\Release\Aircrack-ng GUI.application
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\Aircrack-ng GUI.exe.manifest
+C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\Aircrack-ng GUI.application

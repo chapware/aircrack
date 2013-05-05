@@ -1,0 +1,7 @@
+4/26/2011 7:32:12 AM - Application starting
+4/26/2011 7:32:12 AM - Windir: C:\Windows
+4/26/2011 7:32:12 AM - Aircrack-ng GUI v1.0.0.6
+4/26/2011 7:32:31 AM - Launch command: "C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\airdecap-ng.exe" -w 
+4/26/2011 7:32:54 AM - Launch command: "C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\aircrack-ng.exe" -a 2 -w "C:\bryan\aircrack\test\password.lst" C:\bryan\aircrack\test\wpa.cap
+4/26/2011 7:32:54 AM - File <C:\bryan\aircrack\src\GUI\Aircrack-ng\obj\Release\aircrack-ng.exe> does not exist
+4/26/2011 7:32:58 AM - Application closing

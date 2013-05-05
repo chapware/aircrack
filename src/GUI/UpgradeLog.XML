@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Aircrack-ng">
+</Property><Property Name="Solution File" Value="C:\bryan\aircrack\src\GUI\Aircrack-ng.sln">
+</Property><Property Name="Date" Value="Tuesday, April 26, 2011">
+</Property><Property Name="Time" Value="5:41 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Aircrack-ng.sln" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng.sln">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Aircrack-ng.csproj" Description="Project file successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Aircrack-ng.csproj">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Aircrack-ng.csproj.user" Description="Project user file successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Aircrack-ng.csproj.user">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Form1.cs" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Form1.Designer.cs" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Program.cs" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Program.cs">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Properties\Settings.settings" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Form1.resx" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Properties\Resources.resx" Description="File successfully backed up as C:\bryan\aircrack\src\GUI\Backup\Aircrack-ng\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Aircrack-ng.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Aircrack-ng" Source="Aircrack-ng\Aircrack-ng.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Aircrack-ng.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Aircrack-ng.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Aircrack-ng" Source="Aircrack-ng\Aircrack-ng.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
